@@ -13,6 +13,10 @@
 #Assignment Activity Involving Salary Prediction
 [Salary_Prediction](https://github.com/program-med/ITELEC303---Data-Analytics/blob/main/Salary_Prediction.ipynb)
 
-#Logistic Regression Involving Screentime and Followers Regression
+#Activity 4: Logistic Regression Involving Screentime and Followers Regression
 [Logistic_Regression](https://github.com/program-med/ITELEC303---Data-Analytics/blob/main/Logistic_Regression.ipynb
 )
+
+#Activity 5: Machine Learning Involving Housing Prices
+[Machine_Learning_Exercise](https://github.com/program-med/ITELEC303---Data-Analytics/blob/main/Machine_Learning_Exercise.ipynb)
+
