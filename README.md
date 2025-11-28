@@ -20,3 +20,5 @@
 #Activity 5: Machine Learning Involving Housing Prices
 [Machine_Learning_Exercise](https://github.com/program-med/ITELEC303---Data-Analytics/blob/main/Machine_Learning_Exercise.ipynb)
 
+#Power BI Activity Involving Movie Ratings
+[Movie-Critics](https://github.com/program-med/ITELEC303---Data-Analytics/blob/main/Movie_Critics.pbix)
